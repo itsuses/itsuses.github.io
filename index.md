@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Multiple Email Recipients "the App" provides "Email Notifications" “the Service” to merchants who use Shopify to power their stores. This Privacy Policy describes how personal information is collected, used, and shared when you install or use the App in connection with your Shopify-supported store.
+MultiMail "the App" provides "Email Notifications" “the Service” to merchants who use Shopify to power their stores. This Privacy Policy describes how personal information is collected, used, and shared when you install or use the App in connection with your Shopify-supported store.
 
 **How Do We Use Your Personal Information?**
 
@@ -22,7 +22,7 @@ We may employ third-party companies and individuals due to the following reasons
 
 *   To facilitate our Service;
 *   To provide the Service on our behalf;
-*   To perform Service-related services; or
+*   To perform Service-related services;
 *   To assist us in analyzing how our Service is used.
 
 We want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
