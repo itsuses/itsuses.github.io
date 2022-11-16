@@ -10,8 +10,9 @@ We use the personal information we collect from you and your customers in order 
 
 When you install the App, we are automatically able to access certain types of information from your Shopify account:
 
-A Store's general settings and information as configured by the merchant in their Shopify admin.
-A customer's order and product catalog using Shopify's APIs.
+General information related to the Shopify store (store email, address, location, etc).
+A customer's order and product catalog using Shopify's APIs. 
+Read and edit customers using Shopify's APIs. 
 
 We collect personal information directly from the relevant individual, through your Shopify account, or using the following technologies: “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org. 
 
